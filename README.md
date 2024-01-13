@@ -1,4 +1,4 @@
-## Stock Forecaster ##
+## STOCK FORECASTER ##
 
 This webapp attempts to utilize Yahoofinance data from 2015 till today's date, and delivers a forecast model that predicts a ticker's trends over a given number of years. This particular algorithm utilizes historical closing prices for it's time-series predictions. 
 The Prophet library is extremely efficient in handling missing data and any transformations needed to account for seasonality and trends in the data. Webapp hosted on streamlit. :)
